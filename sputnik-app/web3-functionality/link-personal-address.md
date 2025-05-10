@@ -1,0 +1,11 @@
+# Link Personal Address
+
+In the [**Personal Account**](../personal-account.md), the [**User**](../../glossary-of-terms-and-scheme/user.md) can link own [**Personal Sputnik-Address**](../../glossary-of-terms-and-scheme/personal-sputnik-address.md) or any other [**Personal Addresses**](../../glossary-of-terms-and-scheme/personal-address.md) from any networks in the [**Cosmos Ecosystem**](../../glossary-of-terms-and-scheme/cosmos-ecosystem.md) to the [**Internal Address**](../../glossary-of-terms-and-scheme/internal-address.md)&#x20;
+
+* Linking [**Personal Addresses**](../../glossary-of-terms-and-scheme/personal-address.md) to an [**Internal Address**](../../glossary-of-terms-and-scheme/internal-address.md) is optional&#x20;
+* When linking [**Personal Addresses**](../../glossary-of-terms-and-scheme/personal-address.md), [**Sputnik App**](../) makes changes into the [**Internal Record**](../web2-functionality/internal-record.md)&#x20;
+* To link a [**Personal Address**](../../glossary-of-terms-and-scheme/personal-address.md) from any blockchain, the [**User**](../../glossary-of-terms-and-scheme/user.md) must sign the transaction from the [**Crypto-wallet**](../../glossary-of-terms-and-scheme/crypto-wallet.md)&#x20;
+* If the [**User**](../../glossary-of-terms-and-scheme/user.md) does not have access to the [**Personal Address**](../../glossary-of-terms-and-scheme/personal-address.md), it is impossible to link it to the [**Personal Account**](../personal-account.md)&#x20;
+* If [**User**](../../glossary-of-terms-and-scheme/user.md) try to attach a [**Personal Address**](../../glossary-of-terms-and-scheme/personal-address.md) that is already linked to another [**Personal Account**](../personal-account.md), [**Sputnik App**](../) will ask the [**User**](../../glossary-of-terms-and-scheme/user.md) to first unlink it from another [**Personal Account**](../personal-account.md)&#x20;
+
+After the [**Personal Address**](../../glossary-of-terms-and-scheme/personal-address.md) is linked to the [**Personal Account**](../personal-account.md), the [**User**](../../glossary-of-terms-and-scheme/user.md) can receive tokens sent by username or email directly to the [**Personal Address**](../../glossary-of-terms-and-scheme/personal-address.md)

@@ -1,0 +1,5 @@
+# Receive on Personal Address
+
+To receive tokens or NFTs that were sent by username or email to a [**Personal Address**](../../glossary-of-terms-and-scheme/personal-address.md), and not to an [**Internal Address**](../../glossary-of-terms-and-scheme/internal-address.md) - the [**User**](../../glossary-of-terms-and-scheme/user.md) must link own [**Personal Address**](../../glossary-of-terms-and-scheme/personal-address.md) in the [**Personal Account**](../personal-account.md) so that [**Sputnik App**](../) makes changes into the [**Internal Record**](../web2-functionality/internal-record.md)&#x20;
+
+When someone sends tokens or NFTs by username or email, [**Sputnik App**](../) will go to the [**Internal Record**](../web2-functionality/internal-record.md), see that the username or email is associated with the user's [**Personal Address**](../../glossary-of-terms-and-scheme/personal-address.md), and send the tokens or NFTs to the user's [**Personal Address**](../../glossary-of-terms-and-scheme/personal-address.md)
